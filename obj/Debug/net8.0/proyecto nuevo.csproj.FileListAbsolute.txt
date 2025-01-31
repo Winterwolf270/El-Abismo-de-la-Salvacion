@@ -1,0 +1,34 @@
+E:\proyecto nuevo\bin\Debug\net8.0\proyecto nuevo.exe
+E:\proyecto nuevo\bin\Debug\net8.0\proyecto nuevo.deps.json
+E:\proyecto nuevo\bin\Debug\net8.0\proyecto nuevo.runtimeconfig.json
+E:\proyecto nuevo\bin\Debug\net8.0\proyecto nuevo.dll
+E:\proyecto nuevo\bin\Debug\net8.0\proyecto nuevo.pdb
+E:\proyecto nuevo\obj\Debug\net8.0\proyecto nuevo.GeneratedMSBuildEditorConfig.editorconfig
+E:\proyecto nuevo\obj\Debug\net8.0\proyecto nuevo.AssemblyInfoInputs.cache
+E:\proyecto nuevo\obj\Debug\net8.0\proyecto nuevo.AssemblyInfo.cs
+E:\proyecto nuevo\obj\Debug\net8.0\proyecto nuevo.csproj.CoreCompileInputs.cache
+E:\proyecto nuevo\obj\Debug\net8.0\proyecto nuevo.dll
+E:\proyecto nuevo\obj\Debug\net8.0\refint\proyecto nuevo.dll
+E:\proyecto nuevo\obj\Debug\net8.0\proyecto nuevo.pdb
+E:\proyecto nuevo\obj\Debug\net8.0\proyecto nuevo.genruntimeconfig.cache
+E:\proyecto nuevo\obj\Debug\net8.0\ref\proyecto nuevo.dll
+e:\proyecto nuevo\bin\Debug\net8.0\Spectre.Console.dll
+e:\proyecto nuevo\obj\Debug\net8.0\proyecto nuevo.csproj.AssemblyReference.cache
+E:\proyecto nuevo\obj\Debug\net8.0\proyecto.785A9479.Up2Date
+e:\programacion\proyecto nuevo(salva)\bin\Debug\net8.0\proyecto nuevo.exe
+E:\programacion\proyecto nuevo(salva)\bin\Debug\net8.0\proyecto nuevo.deps.json
+E:\programacion\proyecto nuevo(salva)\bin\Debug\net8.0\proyecto nuevo.runtimeconfig.json
+e:\programacion\proyecto nuevo(salva)\bin\Debug\net8.0\proyecto nuevo.dll
+e:\programacion\proyecto nuevo(salva)\bin\Debug\net8.0\proyecto nuevo.pdb
+e:\programacion\proyecto nuevo(salva)\bin\Debug\net8.0\Spectre.Console.dll
+e:\programacion\proyecto nuevo(salva)\obj\Debug\net8.0\proyecto nuevo.csproj.AssemblyReference.cache
+e:\programacion\proyecto nuevo(salva)\obj\Debug\net8.0\proyecto nuevo.GeneratedMSBuildEditorConfig.editorconfig
+e:\programacion\proyecto nuevo(salva)\obj\Debug\net8.0\proyecto nuevo.AssemblyInfoInputs.cache
+e:\programacion\proyecto nuevo(salva)\obj\Debug\net8.0\proyecto nuevo.AssemblyInfo.cs
+e:\programacion\proyecto nuevo(salva)\obj\Debug\net8.0\proyecto nuevo.csproj.CoreCompileInputs.cache
+E:\programacion\proyecto nuevo(salva)\obj\Debug\net8.0\proyecto.785A9479.Up2Date
+e:\programacion\proyecto nuevo(salva)\obj\Debug\net8.0\proyecto nuevo.dll
+e:\programacion\proyecto nuevo(salva)\obj\Debug\net8.0\refint\proyecto nuevo.dll
+e:\programacion\proyecto nuevo(salva)\obj\Debug\net8.0\proyecto nuevo.pdb
+E:\programacion\proyecto nuevo(salva)\obj\Debug\net8.0\proyecto nuevo.genruntimeconfig.cache
+E:\programacion\proyecto nuevo(salva)\obj\Debug\net8.0\ref\proyecto nuevo.dll
