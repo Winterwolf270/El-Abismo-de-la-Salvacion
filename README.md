@@ -38,6 +38,7 @@ Moverse: Usa las teclas W, A, S, D para moverte (o las flechas de dirección).
 
 Activar Habilidad: Presiona H para activar la habilidad especial del mutante.
 
+Por si acaso, en los primeros mensajes del juego dale enter sin mas, eso es para contar la historia, se veia raro si ponia: " toca enter pa continuar", asi que no lo puse
 Interacción de Trampas: Si caes en una trampa, se activará su efecto específico.
 
 Objetivo:
