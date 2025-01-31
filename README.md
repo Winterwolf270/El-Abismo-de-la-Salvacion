@@ -38,9 +38,10 @@ Moverse: Usa las teclas W, A, S, D para moverte (o las flechas de dirección).
 
 Activar Habilidad: Presiona H para activar la habilidad especial del mutante.
 
-Por si acaso, en los primeros mensajes del juego dale enter sin mas, eso es para contar la historia, se veia raro si ponia: " toca enter pa continuar", asi que no lo puse
 Interacción de Trampas: Si caes en una trampa, se activará su efecto específico.
 
 Objetivo:
 Guía a tu mutante a través del Abismo de la Evolución, utilizando sus habilidades especiales y evitando trampas, para alcanzar la Salvación en el centro del laberinto.
 La aventura es peligrosa, pero solo los más fuertes y valientes lograrán completar el desafío y asegurar un futuro mejor para sus tierras natales.
+
+Por si acaso, en los primeros mensajes del juego dale enter sin mas, eso es para contar la historia, se veia raro si ponia: " toca enter pa continuar", asi que no lo puse
